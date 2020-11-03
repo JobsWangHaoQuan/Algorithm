@@ -1,5 +1,8 @@
 package offer;
 
+/**
+ * 求两个数的最大公约数
+ */
 public class getGreatestCommonDivisor {
     public static int getGreatestCommonDivisor(int a, int b){
         int big = a>b ? a:b;
