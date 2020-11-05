@@ -1,4 +1,4 @@
-package offer;
+package offer.gcd;
 
 /**
  * 辗转相除法进行求最大公约数

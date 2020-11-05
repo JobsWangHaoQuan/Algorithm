@@ -1,4 +1,4 @@
-package offer;
+package offer.gcd;
 
 /**
  * 两种方法结合求出最大公约数，用到了移位运算 >> 意思是除2

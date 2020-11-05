@@ -1,4 +1,4 @@
-package offer;
+package offer.gcd;
 
 /**
  * 求两个数的最大公约数
